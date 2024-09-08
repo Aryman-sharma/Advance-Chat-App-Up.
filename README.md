@@ -18,16 +18,16 @@
 ## Images
 Below are some of the Images that this project showcases:
 
-![Image 1](./GithubImages/Screenshot%202024-08-22%20065431.png)
-<br>
-![Image 2](./GithubImages/Screenshot%202024-08-22%20065530.png)
-<br>
-![Image 3](./GithubImages/Screenshot%202024-08-22%20065614.png)
-<br>
-![Image 4](./GithubImages/Screenshot%202024-08-22%20065706.png)
-<br>
-![Image 5](./GithubImages/Screenshot%202024-08-22%20065751.png)
-<br>
+# Advance Chat App
+
+## Screenshots
+
+![Image 1](./Chat%20APP%20Uplods/screenshot1.png)
+![Image 2](./Chat%20APP%20Uplods/screenshot2.png)
+![Image 3](./Chat%20APP%20Uplods/screenshot3.png)
+![Image 4](./Chat%20APP%20Uplods/screenshot4.png)
+
+
 
 ## Backend
 - **Node.js**: Fast, scalable backend built with [Node.js](https://nodejs.org/) 🛠️
